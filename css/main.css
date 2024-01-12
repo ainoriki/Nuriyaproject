@@ -42,6 +42,7 @@ body{
 }
 .header__logo img{
     max-width: 100%;
+    padding-top: 10px;
 }
 /* header menu list */
 .header__list{
